@@ -35,8 +35,8 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
               "quickstart",
+              "index",
               "development",
               "a-new-page",
               "another-new-page",
