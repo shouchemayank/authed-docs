@@ -34,8 +34,9 @@
         "groups": [
           {
             "group": "Getting started",
+            "root": "index",
+            "expanded": true,
             "pages": [
-              "index",
               "quickstart",
               "development",
               "a-new-page",
