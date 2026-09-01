@@ -38,6 +38,7 @@
             "expanded": true,
             "pages": [
               "quickstart",
+              "index",
               "development",
               "a-new-page",
               "another-new-page",
